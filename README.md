@@ -1,5 +1,6 @@
 # Postgres_Internals
 
 ## MVCC & Transactions
-[![mvcc](https://github.com/Shresth72/postgres_internals/tree/main/mvcc)]
+
+[Learn About MVCC & Trasactions in Postgres](https://github.com/Shresth72/postgres_internals/tree/main/mvcc)
 
